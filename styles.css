@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+	padding:20px;
+}
+.main h1{
+	font-weight:bold;
+}
+.main #p1,#p2{
+	padding:10px;
+	border:1px;
+	background-color:white;
+	font-size:0.8rem;
+}
+.main span{
+	display:flex;
+	justify-content:flex-end;
+}
+
+
+
+
